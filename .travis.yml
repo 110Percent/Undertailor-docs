@@ -1,0 +1,15 @@
+language: python
+sudo: false
+
+python:
+  - "3.4"
+
+env:
+  global:
+  - ENCRYPTION_LABEL: "a660aa9462de"
+  - COMMIT_AUTHOR_EMAIL: "xemiruk@gmail.com"
+
+install: "pip install mkdocs"
+
+script: bash ./deploy.sh
+
