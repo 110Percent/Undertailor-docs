@@ -9,4 +9,3 @@ markdown_extensions:
 
 pages:
   - Home: index.md
-  - Getting Started: gettingStarted.md
