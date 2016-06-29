@@ -1,4 +1,8 @@
 site_name: "Undertailor Documentation"
+site_description: "Documentation for the Undertailor fangame engine"
+site_author: "Xemiru"
+
+repo_url: "https://github.com/Xemiru/Undertailor/"
 
 theme: "readthedocs"
 
