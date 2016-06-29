@@ -1,6 +1,6 @@
 # Undertailor Documentation
 
-![Undertailor Logo](img/logo.png)
+![Undertailor Logo](/img/logo.png)
 
 ## Introductory
 
@@ -10,3 +10,7 @@ Undertailor is a brand new engine built specifically for the creation of Underta
 
 !!! note
 	Undertailor is still in an early development stage. Don't expect things to be shining and perfect!
+
+## Downloads
+
+TODO this
