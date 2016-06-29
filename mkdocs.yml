@@ -1,0 +1,12 @@
+site_name: "Undertailor Documentation"
+
+theme: "readthedocs"
+
+markdown_extensions:
+    - toc:
+    - admonition:
+    - sane_lists:
+
+pages:
+  - Home: index.md
+  - Getting Started: gettingStarted.md
