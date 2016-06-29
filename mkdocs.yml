@@ -6,6 +6,3 @@ markdown_extensions:
     - toc:
     - admonition:
     - sane_lists:
-
-pages:
-  - Home: index.md
