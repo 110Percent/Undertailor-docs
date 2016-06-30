@@ -8,5 +8,8 @@ env:
   global:
   - COMMIT_AUTHOR_EMAIL: "xemiruk@gmail.com"
 
+notifications:
+  email: false
+
 install: "pip install mkdocs"
 script: bash ./deploy.sh
