@@ -21,32 +21,32 @@
             "title": "Downloads"
         },
         {
-            "location": "/Getting Started/0. Prerequisites/",
+            "location": "/Getting_Started/0._Prerequisites/",
             "text": "Before we begin..\n\n\nGrab the latest version of Undertailor. You can find downloads on the \nGitHub releases page\n. Choose the version that best fits your system.\n\n\nTODO github screenshot\n\n\nThese tutorials assume you know how to use Lua to a reasonable degree. Don't know how to use Lua? Tutorials are out everywhere! Here are a few resources to check.\n\n\nTODO these resource\n\n\nFor specific information about the Lua parts of Undertailor, be sure to check out the full Lua documentation here! (TODO also this)\n\n\nGame development can be hard work. Be prepared for bugs, errors, annoyances and at worst, a living hell. Of course, it won't be because of Undertailor (most of the time), as the developer has tried as much as they can to make it a breeze to use.\n\n\nReady to jump in? Head on over to the next page!",
             "title": "0. Prerequisites"
         },
         {
-            "location": "/Getting Started/0. Prerequisites/#before-we-begin",
+            "location": "/Getting_Started/0._Prerequisites/#before-we-begin",
             "text": "Grab the latest version of Undertailor. You can find downloads on the  GitHub releases page . Choose the version that best fits your system.  TODO github screenshot  These tutorials assume you know how to use Lua to a reasonable degree. Don't know how to use Lua? Tutorials are out everywhere! Here are a few resources to check.  TODO these resource  For specific information about the Lua parts of Undertailor, be sure to check out the full Lua documentation here! (TODO also this)  Game development can be hard work. Be prepared for bugs, errors, annoyances and at worst, a living hell. Of course, it won't be because of Undertailor (most of the time), as the developer has tried as much as they can to make it a breeze to use.  Ready to jump in? Head on over to the next page!",
             "title": "Before we begin.."
         },
         {
-            "location": "/Getting Started/1. Starting a Project/",
+            "location": "/Getting_Started/1._Starting_a_Project/",
             "text": "Tools for the Job\n\n\nBefore delving into development, a few essential tools are needed so we can actually create the things we need to make the game work. This involves text utilities for code, and editors for assets.\n\n\nBasically, you'll need...\n\n\n\n\nYour favorite code editor, for writing Lua scripts\n\n\nTiled\n, for creating tilesets and overworld maps\n\n\nAn image editor, to help create your spritesheets\n\n\nTODO: prepare spritesheet editor for public use\n\n\n\n\nDon't know what you want?\n\n\n\n\nAtom\n, created by the people behind GitHub, is a customizable text editor that can be built up to essentially become an IDE, with the right plugins.\n\n\n\n\nZeroBrane Studio\n seems to be a popular choice for people writing in Lua.\n\n\n\n\nIf you're not into anything fancy, \nNotepad++\n is a flexible and easy to use editor. \n*\n\n\n\n\nFor image tools, a freeware choice that's very easy to use and has plugin support is \nPaint.NET\n. \n*\n\n\n* Developer's choice!\n\n\n\n\nSetting up\n\n\nOnce you've gotten your tools, we need to set up our project folder. Our project folder is where we hold all our assets and scripts for the game to load. To set it up, open up the Undertailor launcher (double-click the file).\n\n\n\n\nMake sure \nJar Folder\n is selected, and click \nLaunch Game\n.\n\n\nObviously, nothing's gonna happen on the game, probably because we haven't given anything to it. However, once the game's launched, if it doesn't find its folders in its assigned launch folder, it will make them automatically.",
             "title": "1. Starting a Project"
         },
         {
-            "location": "/Getting Started/1. Starting a Project/#tools-for-the-job",
+            "location": "/Getting_Started/1._Starting_a_Project/#tools-for-the-job",
             "text": "Before delving into development, a few essential tools are needed so we can actually create the things we need to make the game work. This involves text utilities for code, and editors for assets.  Basically, you'll need...   Your favorite code editor, for writing Lua scripts  Tiled , for creating tilesets and overworld maps  An image editor, to help create your spritesheets  TODO: prepare spritesheet editor for public use",
             "title": "Tools for the Job"
         },
         {
-            "location": "/Getting Started/1. Starting a Project/#dont-know-what-you-want",
+            "location": "/Getting_Started/1._Starting_a_Project/#dont-know-what-you-want",
             "text": "Atom , created by the people behind GitHub, is a customizable text editor that can be built up to essentially become an IDE, with the right plugins.   ZeroBrane Studio  seems to be a popular choice for people writing in Lua.   If you're not into anything fancy,  Notepad++  is a flexible and easy to use editor.  *   For image tools, a freeware choice that's very easy to use and has plugin support is  Paint.NET .  *  * Developer's choice!",
             "title": "Don't know what you want?"
         },
         {
-            "location": "/Getting Started/1. Starting a Project/#setting-up",
+            "location": "/Getting_Started/1._Starting_a_Project/#setting-up",
             "text": "Once you've gotten your tools, we need to set up our project folder. Our project folder is where we hold all our assets and scripts for the game to load. To set it up, open up the Undertailor launcher (double-click the file).   Make sure  Jar Folder  is selected, and click  Launch Game .  Obviously, nothing's gonna happen on the game, probably because we haven't given anything to it. However, once the game's launched, if it doesn't find its folders in its assigned launch folder, it will make them automatically.",
             "title": "Setting up"
         }
