@@ -1,0 +1,44 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Undertailor Documentation\n\n\n\n\nIntroductory\n\n\nWelcome to the Undertailor documentation, the official documentation site for the Undertailor project.\n\n\nUndertailor is a brand new engine built specifically for the creation of Undertale-styled fangames, written in Java using the libGDX framework. The engine reads Lua scripts to create games, within maps created in Tiled.\n\n\n\n\nNote\n\n\nUndertailor is still in an early development stage. Don't expect things to be shining and perfect!\n\n\n\n\nDownloads\n\n\nTODO this",
+            "title": "Home"
+        },
+        {
+            "location": "/#undertailor-documentation",
+            "text": "",
+            "title": "Undertailor Documentation"
+        },
+        {
+            "location": "/#introductory",
+            "text": "Welcome to the Undertailor documentation, the official documentation site for the Undertailor project.  Undertailor is a brand new engine built specifically for the creation of Undertale-styled fangames, written in Java using the libGDX framework. The engine reads Lua scripts to create games, within maps created in Tiled.   Note  Undertailor is still in an early development stage. Don't expect things to be shining and perfect!",
+            "title": "Introductory"
+        },
+        {
+            "location": "/#downloads",
+            "text": "TODO this",
+            "title": "Downloads"
+        },
+        {
+            "location": "/Getting Started/1. Starting a Project/",
+            "text": "Tools for the Job\n\n\nBefore delving into development, a few essential tools are needed so we can actually create the things we need to make the game work. This involves text utilities for code, and editors for assets.\n\n\nBasically, you'll need...\n\n\n\n\nYour favorite code editor, for writing Lua scripts\n\n\nTiled\n, for creating tilesets and overworld maps\n\n\nAn image editor, to help create your spritesheets\n\n\nTODO: prepare spritesheet editor for public use\n\n\n\n\nDon't know what you want?\n\n\n\n\nAtom\n, created by the people behind GitHub, is a customizable text editor that can be built up to essentially become an IDE, with the right plugins.\n\n\n\n\nZeroBrane Studio\n seems to be a popular choice for people writing in Lua.\n\n\n\n\nIf you're not into anything fancy, \nNotepad++\n is a flexible and easy to use editor. \n*\n\n\n\n\nFor image tools, a freeware choice that's very easy to use and has plugin support is \nPaint.NET\n. \n*\n\n\n* Developer's choice!\n\n\n\n\nSetting up\n\n\nOnce you've gotten your tools, we need to set up our project folder. Our project folder is where we hold all our assets and scripts for the game to load. To set it up, open up the Undertailor launcher (double-click the file).\n\n\n\n\nMake sure \nJar Folder\n is selected, and click \nLaunch Game\n.\n\n\nObviously, nothing's gonna happen on the game, probably because we haven't given anything to it. However, once the game's launched, if it doesn't find its folders in its assigned launch folder, it will make them automatically.",
+            "title": "1. Starting a Project"
+        },
+        {
+            "location": "/Getting Started/1. Starting a Project/#tools-for-the-job",
+            "text": "Before delving into development, a few essential tools are needed so we can actually create the things we need to make the game work. This involves text utilities for code, and editors for assets.  Basically, you'll need...   Your favorite code editor, for writing Lua scripts  Tiled , for creating tilesets and overworld maps  An image editor, to help create your spritesheets  TODO: prepare spritesheet editor for public use",
+            "title": "Tools for the Job"
+        },
+        {
+            "location": "/Getting Started/1. Starting a Project/#dont-know-what-you-want",
+            "text": "Atom , created by the people behind GitHub, is a customizable text editor that can be built up to essentially become an IDE, with the right plugins.   ZeroBrane Studio  seems to be a popular choice for people writing in Lua.   If you're not into anything fancy,  Notepad++  is a flexible and easy to use editor.  *   For image tools, a freeware choice that's very easy to use and has plugin support is  Paint.NET .  *  * Developer's choice!",
+            "title": "Don't know what you want?"
+        },
+        {
+            "location": "/Getting Started/1. Starting a Project/#setting-up",
+            "text": "Once you've gotten your tools, we need to set up our project folder. Our project folder is where we hold all our assets and scripts for the game to load. To set it up, open up the Undertailor launcher (double-click the file).   Make sure  Jar Folder  is selected, and click  Launch Game .  Obviously, nothing's gonna happen on the game, probably because we haven't given anything to it. However, once the game's launched, if it doesn't find its folders in its assigned launch folder, it will make them automatically.",
+            "title": "Setting up"
+        }
+    ]
+}
