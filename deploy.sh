@@ -49,10 +49,12 @@ fi
 git add .
 git commit -m "Deploy to GitHub Pages: ${SHA}"
 
+cd ..
 openssl aes-256-cbc -K $encrypted_a660aa9462de_key -iv $encrypted_a660aa9462de_iv -in deploy_key.enc -out deploy_key -d
 chmod 600 deploy_key
 eval `ssh-agent -s`
 ssh-add deploy_key
+cd out
 
 # Now that we're all set up, we can push.
 git push $SSH_REPO $TARGET_BRANCH
