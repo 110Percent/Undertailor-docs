@@ -12,4 +12,3 @@ env:
 install: "pip install mkdocs"
 
 script: bash ./deploy.sh
-
